@@ -11,6 +11,8 @@ Projects
 
 Application runner and command processor
 
+----
+
 [![Build Status](https://travis-ci.org/phlax/aio.app.svg?branch=master)](https://travis-ci.org/phlax/aio.app)
 
 ### [aio.http](https://github.com/phlax/aio.http)
