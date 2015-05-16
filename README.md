@@ -32,3 +32,4 @@ Projects
 [![Build Status](https://travis-ci.org/phlax/aio.http.svg?branch=master)](https://travis-ci.org/phlax/aio.http)
 
 ### [aio.web](https://github.com/phlax/aio.web)
+[![Build Status](https://travis-ci.org/phlax/aio.web.svg?branch=master)](https://travis-ci.org/phlax/aio.web)
