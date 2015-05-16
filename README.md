@@ -14,9 +14,11 @@ Projects
 ### [aio.core](https://github.com/phlax/aio.core)
 
 
+### [aio.testing](https://github.com/phlax/aio.testing)
+[![Build Status](https://travis-ci.org/phlax/aio.testing.svg?branch=master)](https://travis-ci.org/phlax/aio.testing)
+
 
 ### [aio.signals](https://github.com/phlax/aio.signals)
-
 [![Build Status](https://travis-ci.org/phlax/aio.signals.svg?branch=master)](https://travis-ci.org/phlax/aio.signals)
 
 
