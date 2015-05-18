@@ -1,0 +1,16 @@
+language: python
+python:
+ - "3.4"
+
+env:
+ - AIO_BUILD=master
+ - AIO_BUILD=pypi
+
+install:
+ - pip install -r travis/requirements-$AIO_BUILD.txt
+
+before_script:
+ - wget https://raw.githubusercontent.com/phlax/aio/master/travis/aio.conf
+ - wget https://raw.githubusercontent.com/phlax/aio/master/travis/logging.conf
+
+script: aio test
