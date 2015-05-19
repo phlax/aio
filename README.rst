@@ -15,65 +15,40 @@ Build status
 
 Projects
 --------
-+-------------------------+--------------------------------------------+-------------------------------------------------------------------+
-| Package                 | Description                                |  Build status                                                     |
-+=========================+============================================+===================================================================+
-| aio.app                 | Application runner and command processor   | .. image:: https://travis-ci.org/phlax/aio.app.svg?branch=master  |
-|                         |                                            |      :target: https://travis-ci.org/phlax/aio.app                 |
-+-------------------------+--------------------------------------------+-------------------------------------------------------------------+
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| Package                 | Description                                     |  Build status                                                                |
++=========================+=================================================+==============================================================================+
+| aio.app_                | ::                                              | .. image:: https://travis-ci.org/phlax/aio.app.svg?branch=master             |
+|                         | Application runner and command processor for    |      :target: https://travis-ci.org/phlax/aio.app                            |
+|                         | aio asyncio framework                           |                                                                              |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.web_                | Web server for aio asyncio framework            | .. image:: https://travis-ci.org/phlax/aio.web.svg?branch=master             |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.web                            |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.http_               | HTTP server for aio asyncio framework           | .. image:: https://travis-ci.org/phlax/aio.http.svg?branch=master            |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.http                           |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.signals_            | Pubsub system for aio asyncio framework         | .. image:: https://travis-ci.org/phlax/aio.signals.svg?branch=master         |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.signals                        |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.manhole_            | Manhole server for aio asyncio framework        | .. image:: https://travis-ci.org/phlax/aio.manhole.svg?branch=master         |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.manhole                        |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.testing_            | Testing utils for aio asyncio framework         | .. image:: https://travis-ci.org/phlax/aio.testing.svg?branch=master         |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.testing                        |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.config_             | Configuration parser for aio asyncio framework  | .. image:: https://travis-ci.org/phlax/aio.config.svg?branch=master          |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.config                         |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.core_               | Core utils for aio asyncio framework            | .. image:: https://travis-ci.org/phlax/aio.core.svg?branch=master            |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.core                           |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
 
-
-
-### [aio.app](https://github.com/phlax/aio.app)
-
-
-
-
-
-
-### [aio.http](https://github.com/phlax/aio.http)
-
-Minimal http server
-
-[![Build Status](https://travis-ci.org/phlax/aio.http.svg?branch=master)](https://travis-ci.org/phlax/aio.http)
-
-
-
-
-### [aio.web](https://github.com/phlax/aio.web)
-
-Web server with templates and static resources
-
-[![Build Status](https://travis-ci.org/phlax/aio.web.svg?branch=master)](https://travis-ci.org/phlax/aio.web)
-
-----
-
-### [aio.core](https://github.com/phlax/aio.core)
-
-Core utilities and definitions
-
-----
-
-### [aio.testing](https://github.com/phlax/aio.testing)
-
-[![Build Status](https://travis-ci.org/phlax/aio.testing.svg?branch=master)](https://travis-ci.org/phlax/aio.testing)
-
-Asyncio testing framework
-
-----
-
-### [aio.signals](https://github.com/phlax/aio.signals)
-[![Build Status](https://travis-ci.org/phlax/aio.signals.svg?branch=master)](https://travis-ci.org/phlax/aio.signals)
-
-----
-
-### [aio.logging](https://github.com/phlax/aio.logging)
-Asyncio logging
-
-----
-
-### [aio.config](https://github.com/phlax/aio.config)
-
-Asyncio configuration parser
-
-[![Build Status](https://travis-ci.org/phlax/aio.config.svg?branch=master)](https://travis-ci.org/phlax/aio.config)
+.. _aio.app: https://github.com/phlax/aio.app
+.. _aio.http: https://github.com/phlax/aio.http
+.. _aio.web: https://github.com/phlax/aio.web
+.. _aio.core: https://github.com/phlax/aio.core
+.. _aio.signals: https://github.com/phlax/aio.signals
+.. _aio.config: https://github.com/phlax/aio.config
+.. _aio.testing: https://github.com/phlax/aio.testing
+.. _aio.manhole: https://github.com/phlax/aio.manhole
