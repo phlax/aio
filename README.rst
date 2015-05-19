@@ -15,13 +15,19 @@ Build status
 
 Projects
 --------
++-------------------------+--------------------------------------------+-------------------------------------------------------------------+
+| Package                 | Description                                |  Build status                                                     |
++=========================+============================================+===================================================================+
+| aio.app                 | Application runner and command processor   | .. image:: https://travis-ci.org/phlax/aio.app.svg?branch=master  |
+|                         |                                            |      :target: https://travis-ci.org/phlax/aio.app                 |
++-------------------------+--------------------------------------------+-------------------------------------------------------------------+
+
+
 
 ### [aio.app](https://github.com/phlax/aio.app)
 
-Application runner and command processor
 
-.. image:: https://travis-ci.org/phlax/aio.app.svg?branch=master
-	       :target: https://travis-ci.org/phlax/aio.app
+
 
 
 
