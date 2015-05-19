@@ -62,3 +62,4 @@ Asyncio logging
 Asyncio configuration parser
 
 [![Build Status](https://travis-ci.org/phlax/aio.config.svg?branch=master)](https://travis-ci.org/phlax/aio.config)
+
