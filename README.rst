@@ -1,7 +1,16 @@
+
 aio
 ===
 
 aio is a minimal application framework for python3's asyncio module.
+
+
+
+Build status
+------------
+
+.. image:: https://travis-ci.org/phlax/aio.svg?branch=master
+	       :target: https://travis-ci.org/phlax/aio
 
 
 Projects
@@ -11,9 +20,9 @@ Projects
 
 Application runner and command processor
 
-[![Build Status](https://travis-ci.org/phlax/aio.app.svg?branch=master)](https://travis-ci.org/phlax/aio.app)
+.. image:: https://travis-ci.org/phlax/aio.app.svg?branch=master
+	       :target: https://travis-ci.org/phlax/aio.app
 
-----
 
 
 ### [aio.http](https://github.com/phlax/aio.http)
@@ -22,7 +31,7 @@ Minimal http server
 
 [![Build Status](https://travis-ci.org/phlax/aio.http.svg?branch=master)](https://travis-ci.org/phlax/aio.http)
 
-----
+
 
 
 ### [aio.web](https://github.com/phlax/aio.web)
