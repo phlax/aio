@@ -3,5 +3,5 @@ aio.config
 aio.signals
 aio.app
 aio.http
-aio.web
+aio.web.server
 aio.testing
