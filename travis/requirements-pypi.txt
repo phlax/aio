@@ -2,6 +2,6 @@ aio.core
 aio.config
 aio.signals
 aio.app
-aio.http
+aio.http.server
 aio.web.server
 aio.testing
