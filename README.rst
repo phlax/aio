@@ -24,8 +24,8 @@ Projects
 | aio.web.server_         | Web server for aio asyncio framework            | .. image:: https://travis-ci.org/phlax/aio.web.server.svg?branch=master      | .. image:: https://pypip.in/v/aio.web.server/badge.png            | .. image:: https://pypip.in/d/aio.web.server/badge.png             |
 |                         |                                                 |      :target: https://travis-ci.org/phlax/aio.web.server                     |     :target: https://pypi.python.org/pypi/aio.web.server          |     :target:  https://pypi.python.org/pypi/aio.web.server          |
 +-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+-------------------------------------------------------------------+--------------------------------------------------------------------+
-| aio.http_               | HTTP server for aio asyncio framework           | .. image:: https://travis-ci.org/phlax/aio.http.svg?branch=master            | .. image:: https://pypip.in/v/aio.http/badge.png                  | .. image:: https://pypip.in/d/aio.http/badge.png                   |
-|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.http                           |     :target: https://pypi.python.org/pypi/aio.http                |     :target:  https://pypi.python.org/pypi/aio.http                |
+| aio.http.server_        | HTTP server for aio asyncio framework           | .. image:: https://travis-ci.org/phlax/aio.http.server.svg?branch=master     | .. image:: https://pypip.in/v/aio.http.server/badge.png           | .. image:: https://pypip.in/d/aio.http.server/badge.png            |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.http.server                    |     :target: https://pypi.python.org/pypi/aio.http.server         |     :target:  https://pypi.python.org/pypi/aio.http.server         |
 +-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+-------------------------------------------------------------------+--------------------------------------------------------------------+
 | aio.signals_            | Pubsub system for aio asyncio framework         | .. image:: https://travis-ci.org/phlax/aio.signals.svg?branch=master         | .. image:: https://pypip.in/v/aio.signals/badge.png               | .. image:: https://pypip.in/d/aio.signals/badge.png                |
 |                         |                                                 |      :target: https://travis-ci.org/phlax/aio.signals                        |     :target: https://pypi.python.org/pypi/aio.signals             |     :target:  https://pypi.python.org/pypi/aio.signals             |
@@ -45,7 +45,7 @@ Projects
 
 
 .. _aio.app: https://github.com/phlax/aio.app
-.. _aio.http: https://github.com/phlax/aio.http
+.. _aio.http.server: https://github.com/phlax/aio.http.server
 .. _aio.web.server: https://github.com/phlax/aio.web.server
 .. _aio.core: https://github.com/phlax/aio.core
 .. _aio.signals: https://github.com/phlax/aio.signals
