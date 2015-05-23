@@ -11,6 +11,5 @@ install:
 
 before_script:
  - wget https://raw.githubusercontent.com/phlax/aio/master/travis/aio.conf
- - wget https://raw.githubusercontent.com/phlax/aio/master/travis/logging.conf
 
 script: aio test

@@ -20,6 +20,9 @@ Projects
 | aio.app_                | Application runner and command processor for    | .. image:: https://travis-ci.org/phlax/aio.app.svg?branch=master             |
 |                         | aio asyncio framework                           |      :target: https://travis-ci.org/phlax/aio.app                            |
 +-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
+| aio.web.page_           | Web page for aio asyncio framework              | .. image:: https://travis-ci.org/phlax/aio.web.page.svg?branch=master        |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.web.page                       |
++-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
 | aio.web.server_         | Web server for aio asyncio framework            | .. image:: https://travis-ci.org/phlax/aio.web.server.svg?branch=master      |
 |                         |                                                 |      :target: https://travis-ci.org/phlax/aio.web.server                     |
 +-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
@@ -46,6 +49,7 @@ Projects
 .. _aio.app: https://github.com/phlax/aio.app
 .. _aio.http.server: https://github.com/phlax/aio.http.server
 .. _aio.web.server: https://github.com/phlax/aio.web.server
+.. _aio.web.page: https://github.com/phlax/aio.web.page
 .. _aio.core: https://github.com/phlax/aio.core
 .. _aio.signals: https://github.com/phlax/aio.signals
 .. _aio.config: https://github.com/phlax/aio.config
