@@ -41,8 +41,8 @@ Projects
 | aio.core_               | Core utils for aio asyncio framework            | .. image:: https://travis-ci.org/phlax/aio.core.svg?branch=master            |
 |                         |                                                 |      :target: https://travis-ci.org/phlax/aio.core                           |
 +-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
-| aio.manhole_            | Manhole server for aio asyncio framework        | .. image:: https://travis-ci.org/phlax/aio.manhole.svg?branch=master         |
-|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.manhole                        |
+| aio.manhole.server_     | Manhole server for aio asyncio framework        | .. image:: https://travis-ci.org/phlax/aio.manhole.server.svg?branch=master  |
+|                         |                                                 |      :target: https://travis-ci.org/phlax/aio.manhole.server                 |
 +-------------------------+-------------------------------------------------+------------------------------------------------------------------------------+
 
 
@@ -54,4 +54,4 @@ Projects
 .. _aio.signals: https://github.com/phlax/aio.signals
 .. _aio.config: https://github.com/phlax/aio.config
 .. _aio.testing: https://github.com/phlax/aio.testing
-.. _aio.manhole: https://github.com/phlax/aio.manhole
+.. _aio.manhole.server: https://github.com/phlax/aio.manhole.server
